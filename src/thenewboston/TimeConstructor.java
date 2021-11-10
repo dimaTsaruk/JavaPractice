@@ -5,6 +5,7 @@ public class TimeConstructor {
     private int minute;
     private int second;
 
+
     public TimeConstructor() {
         this(0, 0, 0);
     }
