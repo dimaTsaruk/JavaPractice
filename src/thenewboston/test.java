@@ -12,7 +12,6 @@ public class test {
         System.out.printf("%s\n", time2.toMilitary());
         System.out.printf("%s\n", time3.toMilitary());
 
-
         Time t = new Time();
         System.out.println("Default time: ");
         System.out.println(t.toMilitary());
