@@ -5,6 +5,7 @@ public class Time {
     private int minute;
     private int second;
 
+
     public void setTime(int h, int m, int s) {
         hour = ((h >= 0 && h < 24) ? h : 0);
         minute = ((m >= 0 && h < 60) ? m : 0);
