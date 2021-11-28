@@ -1,4 +1,4 @@
-package codingBat;
+package codingBat.Arrays;
 
 public class arrayCount9 {
     /*

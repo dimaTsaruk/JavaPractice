@@ -1,4 +1,4 @@
-package codingBat;
+package codingBat.Arrays;
 
 public class frontTimes {
     public static void main(String[] args) {

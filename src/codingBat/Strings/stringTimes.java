@@ -1,4 +1,4 @@
-package codingBat;
+package codingBat.Strings;
 
 public class stringTimes {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package codingBat;
+package codingBat.Strings;
 
 public class stringBits {
     /*
