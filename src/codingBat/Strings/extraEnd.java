@@ -17,7 +17,7 @@ public class extraEnd {
     }
 
     public static String extraEnd(String str) {
-        String last2chars = str.substring(str.length() - 2, str.length());
+        String last2chars = str.substring(str.length() - 2);
         return (last2chars + last2chars + last2chars);
     }
 
