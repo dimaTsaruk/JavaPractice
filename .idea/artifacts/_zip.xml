@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name=".zip">
+    <output-path>$PROJECT_DIR$/../../xxx</output-path>
+    <root id="archive" name=".zip.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/Spring1" />
+    </root>
+  </artifact>
+</component>
