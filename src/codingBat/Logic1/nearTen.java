@@ -13,7 +13,7 @@ public class nearTen {
     }
 
     public boolean nearTen(int num) {
-
+        return true;
     }
 
 }
