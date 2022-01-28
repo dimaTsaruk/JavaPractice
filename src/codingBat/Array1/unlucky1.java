@@ -10,9 +10,11 @@ public class unlucky1 {
          * unlucky1([2, 1, 3, 4, 5]) → true
          * unlucky1([1, 1, 1]) → false
          */
+        //unlucky1([1, 1, 1, 3, 1]) → false
+        System.out.println(unlucky1(new int[]{1, 1, 1, 3, 1}));
     }
 
-    public boolean unlucky1(int[] nums) {
+    public static boolean unlucky1(int[] nums) {
         if (nums.length < 2)
             return false;
         else if (nums.length == 2 && nums[0] == 1 && nums[1] != 3)
